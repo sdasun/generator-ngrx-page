@@ -1,12 +1,10 @@
 {
   "name": "generator-ngrx-page",
-  "version": "0.0.0",
-  "description": "",
+  "version": "0.1.0",
+  "description": "Basic ngrx page component scaffolding.",
   "homepage": "",
   "author": {
-    "name": "dasun",
-    "email": "dasunw@ironononetech.com",
-    "url": ""
+    "name": "Dasun Sameera Weerasinghe"
   },
   "files": [
     "generators"
@@ -18,16 +16,7 @@
   ],
   "devDependencies": {
     "yeoman-test": "^1.7.0",
-    "yeoman-assert": "^3.1.0",
-    "coveralls": "^3.0.7",
-    "eslint": "^6.6.0",
-    "prettier": "^1.19.1",
-    "husky": "^3.0.9",
-    "lint-staged": "^9.4.3",
-    "eslint-config-prettier": "^6.6.0",
-    "eslint-plugin-prettier": "^3.1.1",
-    "eslint-config-xo": "^0.27.2",
-    "jest": "^26.1.0"
+    "yeoman-assert": "^3.1.0"
   },
   "engines": {
     "npm": ">= 4.0.0"
