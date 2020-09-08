@@ -1,0 +1,1 @@
+export * from './<%= kebabName %>-page/<%= kebabName %>-page.component';
